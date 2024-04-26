@@ -14,4 +14,4 @@ else nivel = "Radiante"
 }
 
 //mensagem de saída
-console.log ("O herói de nome " + nome + "está no nível " + nivel)
+console.log ("O herói de nome " + nome + " está no nível " + nivel)
